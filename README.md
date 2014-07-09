@@ -3,6 +3,7 @@ tumblr
 
 Hours: 5
 
+<img src="http://mattmitchellcreative.com/other/ios/facebook/tumblr.gif" alt="tumblr app">
 
 - Tab bar should be implemented as a view with 5 buttons.
 - Implement the 4 tabs (Home, Search, Account, and Trending) as scrollviews that contain screenshots.
